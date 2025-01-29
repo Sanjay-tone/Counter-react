@@ -1,0 +1,58 @@
+
+
+body{
+    background:url("./image/asset/Gradient\ Blur\ GIFs\ -\ Find\ &\ Share\ on\ GIPHY.gif") no-repeat center;
+    height: 70vh;
+    background-size: cover;
+    
+}
+
+
+
+
+    
+.sec{
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+    width: 350px;
+    margin-left: 600px;
+
+    
+}
+
+#items{
+    font-size: xx-large;
+    color: rgb(255, 81, 0);
+}
+
+#btn{
+    background-color: aqua;
+    padding: 10px;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+}
+
+#btn1{
+    background-color: aqua;
+    padding: 10px;
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+}
+
+#btn:hover{
+    background-color: green;
+    color: white;
+}
+
+#btn1:hover{
+    background-color: green;
+    color: white;
+}
